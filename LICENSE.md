@@ -1,10 +1,10 @@
-Best Mullvad Plugin | server switching + P2P support is the best Mullvad plugin with server switching and P2P support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://Fragmentvonditch.github.io/mullvad-sk40/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
