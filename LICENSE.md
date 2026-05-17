@@ -1,10 +1,10 @@
-Melhor Mullvad Plugin | troca de servidor + suporte P2P é o melhor Mullvad plugin com troca de servidor e suporte P2P. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/mullvad-sk40/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
