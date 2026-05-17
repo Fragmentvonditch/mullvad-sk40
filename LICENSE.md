@@ -1,10 +1,10 @@
-最佳Mullvad插件 | 服务器切换 + P2P支持 是最佳 Mullvad 插件，集成 服务器切换 和 P2P支持。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Fragmentvonditch.github.io/mullvad-sk40/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
